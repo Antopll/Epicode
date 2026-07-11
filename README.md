@@ -26,9 +26,7 @@ queste competenze all'ambito **sportivo/calcistico** (scouting e performance ana
 ## 📁 Indice esercizi
 
 - [M2 - Statistica & Excel](./M2-statistica-excel)
-- [M3 - SQL & Data Modeling](./M3-sql-data-modeling)
-- [M4 - Python & Machine Learning](./M4-python-machine-learning)
-- [Capstone Project](./capstone-project)
+
 
 ## 🛠️ Competenze in sviluppo
 
