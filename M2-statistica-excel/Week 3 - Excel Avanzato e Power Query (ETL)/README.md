@@ -1,3 +1,3 @@
 # Week 3 - Excel Avanzato e Power Query (ETL)
 
-- [Esercizio - Logica e aggregazione](https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Week%203%20-%20Excel%20Avanzato%20e%20Power%20Query%20(ETL)/Logica%20e%20aggregazione%20-%20W3D2.xlsx)
+- [Esercizio - Logica e aggregazione W3D2](https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Week%203%20-%20Excel%20Avanzato%20e%20Power%20Query%20(ETL)/Logica%20e%20aggregazione%20-%20W3D2.xlsx)
