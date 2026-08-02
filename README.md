@@ -23,6 +23,9 @@ queste competenze all'ambito **sportivo/calcistico** (scouting e performance ana
 | M6 | Modern Stack, Fabric & AI Systems | - |
 | Capstone | Progetto finale | - |
 
+## 🏁 Esercizi finali di fine modulo
+
+
 ## 📁 Indice esercizi
 
 - [M2 - Statistica & Excel](./M2-statistica-excel)
