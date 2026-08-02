@@ -32,5 +32,9 @@ Per rendere i fogli leggibili a colpo d'occhio ho usato una codifica cromatica c
 |---|---|---|
 | Preparazione dati con Power Query (1-2-3) | 3 |(https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Esercitazione%20finale/Preparazione%20dati%20con%20Power%20Query%20(1-2-3).xlsx)
 | Ricerca, logica ed array dinamici (4-5-6) | 3 | https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Esercitazione%20finale/Ricerca%2C%20logica%20ed%20array%20dinamici%20(4-5-6).xlsx |
+| Statistica descrittiva sui prezzi (7-8-9) | 3 |https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Esercitazione%20finale/Statistica%20descrittiva%20sui%20prezzi%20(7-8-9).xlsx
+| Probabilità e distribuzione normale (10-11-12) | 3 | https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Esercitazione%20finale/Probabilit%C3%A0%20e%20distribuzione%20normale%20(10-11-12).xlsx
+| Inferenza e confronto tra gruppi (13-14-15) | 3 | https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Esercitazione%20finale/Inferenza%20e%20confronto%20tra%20gruppi%20(13-14-15).xlsx
+| Correlazione e regressione (16-17-18) | 3 | https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Esercitazione%20finale/Correlazione%20e%20regressione%20(16-17-18).xlsx
 
 
