@@ -31,7 +31,6 @@ Per rendere i fogli leggibili a colpo d'occhio ho usato una codifica cromatica c
 | File | Esercizi | Argomenti |
 |---|---|---|
 | Preparazione dati con Power Query (1-2-3) | 3 |(https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Esercitazione%20finale/Preparazione%20dati%20con%20Power%20Query%20(1-2-3).xlsx)
- |
 | Ricerca, logica ed array dinamici (4-5-6) | 3 | https://github.com/Antopll/Epicode/blob/main/M2-statistica-excel/Esercitazione%20finale/Ricerca%2C%20logica%20ed%20array%20dinamici%20(4-5-6).xlsx |
 
 
