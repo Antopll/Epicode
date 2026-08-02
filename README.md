@@ -25,6 +25,7 @@ queste competenze all'ambito **sportivo/calcistico** (scouting e performance ana
 
 ## 🏁 Esercizi finali di fine modulo
 
+📂 [Esercitazione finale del modulo](./M2-statistica-excel/Esercitazione%20finale)
 
 ## 📁 Indice esercizi
 
